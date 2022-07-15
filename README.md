@@ -2,6 +2,6 @@
 Forked from @wordpress/env with customizations.
 
 ### To-do
-- [] Remove tests-wordpress instance.
+- [ ] Remove tests-wordpress instance.
 - [x] Enable Dockerfile customizations.
-- [] Enable custom domain name setup.
+- [ ] Enable custom domain name setup.
