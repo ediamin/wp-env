@@ -1,0 +1,15 @@
+{
+  "name": "@ediamin/env",
+  "version": "0.0.1",
+  "description": "Customized version of @wordpress/env",
+  "main": "lib/env.js",
+  "bin": {
+    "wp-env-x": "bin/wp-env-x"
+  },
+  "scripts": {},
+  "author": "Edi Amin",
+  "license": "GPL-2.0-or-later",
+  "dependencies": {
+    "@wordpress/env": "^4.9.0"
+  }
+}
