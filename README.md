@@ -5,4 +5,4 @@ Forked from @wordpress/env with customizations.
 - [x] Remove tests-wordpress instance.
 - [x] Enable Dockerfile customizations.
 - [ ] Enable custom domain name setup.
-- [ ] Add support for custom admin username and password.
+- [x] Run custom commands after setup.
